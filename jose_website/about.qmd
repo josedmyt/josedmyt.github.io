@@ -1,0 +1,5 @@
+---
+title: "About Jose"
+---
+
+My name is Jose and I am a 2026 candidate for the Master of Data Science from the University of British Columbia
